@@ -1,4 +1,5 @@
-git other openwrt-packages https://github.com/kenzok8
+# git other openwrt-packages https://github.com/kenzok8
+git other openwrt-packages https://github.com/shidahuilang
 git other OpenClash https://github.com/vernesong
 git other luci-app-usb3disable https://github.com/rufengsuixing
 git other luci-app-accesscontrol-plus https://github.com/kingyond/
